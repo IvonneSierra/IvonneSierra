@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/IvonneSierra/IvonneSierra/blob/main/descarga.gif" alt="Descripción del GIF">
+  <img src="https://github.com/IvonneSierra/IvonneSierra/blob/main/descarga.gif" width="200">
 </div>
 
 # 👩‍💻 Ivonne Sierra — Systems Engineer in Training
