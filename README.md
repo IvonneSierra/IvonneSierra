@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0d/31/58/0d31585c38a3b7ee606be3d20b17ad13.gif" alt="Tech GIF" width="700"/>
+</p>
 
-<!--
-**IvonneSierra/IvonneSierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Ivonne Sierra — Systems Engineer in Training
 
-Here are some ideas to get you started:
+🚀 **Systems Engineering student** at [Konrad Lorenz University](https://www.konradlorenz.edu.co/) with a strong foundation in **software development**, **data analysis**, and **technological innovation**.  
+Passionate about building **user-centered digital solutions** that combine creativity, functionality, and impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 My experience as a **research assistant in Virtual Reality projects** has allowed me to explore immersive technologies and strengthen my skills in **Unity**, teamwork, and problem-solving within innovative environments.
+
+🎯 I aim to continue enhancing my **technical and analytical skills** to contribute to **high-impact projects** that optimize processes and elevate user experiences.
+
+---
+
+### 🧠 Key Competencies
+
+- 🎨 **User-Centered Design (UI/UX):** Creating intuitive, engaging, and impactful digital experiences.  
+- 💻 **Software Development:** Solid knowledge in Java, HTML, and SQL for robust applications.  
+- 📊 **Data Analysis & Visualization:** Experienced with Power BI and R Studio for data-driven insights.  
+- 🤖 **AI & Emerging Technologies:** Understanding of AI concepts and their practical applications.  
+- 🤝 **Collaboration & Adaptability:** Strong communication and teamwork skills in multidisciplinary settings.  
+- 🔍 **Analytical Thinking:** Strategic and creative approach to solving complex problems.  
+
+---
+
+✨ *Driven by curiosity, creativity, and the vision to turn technology into meaningful solutions that make a difference.*
