@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0d/31/58/0d31585c38a3b7ee606be3d20b17ad13.gif" alt="Tech GIF" width="700"/>
-</p>
+
+![](https://github.com/user-attachments/assets/7ff1c3c5-c296-49ba-a559-541f4867bc5b)
 
 # 👩‍💻 Ivonne Sierra — Systems Engineer in Training
 
